@@ -3,23 +3,24 @@
 
 <img width="1418" alt="Ekran Resmi 2022-07-29 23 10 13" src="https://user-images.githubusercontent.com/77747702/181836383-c8d1dcb3-61fb-4834-9613-c07f9ee0972e.png">
 
-2- Sıradaki elemanı root'a göre sorgulama işlemi yapılır. 5, 7'den büyük müdür? Hayır. O zaman 5, ağacımızda 7'nin solunda bulunur.
+2- Sıradaki eleman 5. 5, 7den daha küçük o yüzden 7'nin solunda yer alır.
 <img width="1418" alt="Ekran Resmi 2022-07-29 23 13 49" src="https://user-images.githubusercontent.com/77747702/181836552-3c2c5711-87c9-4950-84c1-ada7f8a6fa30.png">
 
 
-3- Aynı işlem bu sefer 3. eleman için yapılır. 1, root olan 7'den küçük olduğundan 7'nin solunda yer alır. Fakat orada 5 olduğundan ona göre de bir sorgulama yapılır. 1, 5'ten de küçük olduğundan 1, 5'in solunda yer alır.
+3- Daha sonra sıradaki elemana geçeriz. Sıradaki eleman 1. 1, 7'den daha küçük o zaman sol taraftadır. Sol tarafta 5 de var, o zaman 5'e göre de bakarız.
+1, 5'ten küçüktür. O zaman bir 5'in solunda yer alır.
 
 <img width="1418" alt="Ekran Resmi 2022-07-29 23 14 25" src="https://user-images.githubusercontent.com/77747702/181836644-68d5b8ee-9d5e-4e07-b424-d92bd09fea2f.png">
 
-4- 8 roota göre büyük olduğundan 8, 7'nin sağında yer alır.
+4- Sıraki eleman 8. 8 7'den büyüktür o zaman sağ tarafa yazarız.
 <img width="1418" alt="Ekran Resmi 2022-07-29 23 14 38" src="https://user-images.githubusercontent.com/77747702/181836669-63c9eae6-e46e-427b-bd05-6f7ffbbfe67c.png">
 
 
-5- 3, 7 ve 5'ten küçük, 1'den büyüktür. Bu yüzden 1'in sağ tarafında bulunur.
+5- Sıradaki eleman 3, 7 ve 5'ten küçük, 1'den büyüktür. 1'in sağ tarafına yazarız.
 <img width="1418" alt="Ekran Resmi 2022-07-29 23 15 26" src="https://user-images.githubusercontent.com/77747702/181836776-d85b12b4-79a8-437a-9460-c3c2adfd0972.png">
 
 
-6- 6, 7'den küçük 5'ten büyüktür. O vakit 5'in altında sağ tarafta bulunur.
+6- Sıradaki eleman 6, 7'den küçük 5'ten büyüktür. 5'in altında sağ tarafta bulunur.
 
 <img width="1418" alt="Ekran Resmi 2022-07-29 23 15 40" src="https://user-images.githubusercontent.com/77747702/181836803-3596a192-8d4d-4623-bae1-10a8a85be314.png">
 
